@@ -1,0 +1,21 @@
+.box-grid{
+            height: 93px;
+            background-color: slategray;
+            border-radius: 50%;
+            cursor: pointer;
+            padding: 36px;
+            margin: 0 10px;
+}
+.wait{
+ border: 3px dotted black;
+ background-color: darkcyan;
+}
+.correct{
+            background-color:green;
+}
+.different{
+            background-color:lightgreen;
+}
+.wrong{
+            background-color: red;
+}
